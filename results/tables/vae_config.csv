@@ -1,0 +1,11 @@
+parameter,value
+LATENT_DIM,134
+BETA,1.0
+pca_test_mse,0.0077810147777199745
+ae_test_mse,0.0076800016686320305
+vae_test_mse,0.017603613436222076
+batch_size,256
+n_epochs,100
+learning_rate,0.001
+weight_decay,0.0
+hidden_dims,"(512, 256)"

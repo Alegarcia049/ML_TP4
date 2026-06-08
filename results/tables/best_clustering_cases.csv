@@ -1,0 +1,3 @@
+case,model,space,K,silhouette_score,marginal_gain,purity_informative_only
+best_overall_by_silhouette,kmeans,AE,5,0.13627247212966706,,0.423
+best_pca_by_silhouette,kmeans,PCA,5,0.03467393513510604,,0.15733333333333333
